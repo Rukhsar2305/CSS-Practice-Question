@@ -1,0 +1,63 @@
+h1{
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#container {
+  height: 300px;
+  width: 80%;
+  background-color: azure;
+  margin: 10px auto;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row;
+}
+
+#violet {
+  height: 100px;
+  width: 500px;
+  background-color: violet;
+}
+
+#indigo {
+  height: 100px;
+  width: 500px;
+  background-color: indigo;
+}
+
+#blue {
+  height: 100px;
+  width: 500px;
+  background-color: blue;
+}
+
+#green {
+  height: 100px;
+  width: 500px;
+  background-color: green;
+}
+
+#yellow {
+  height: 100px;
+  width: 500px;
+  background-color: yellow;
+}
+
+#orange {
+  height: 100px;
+  width: 500px;
+  background-color: orange;
+}
+
+#red {
+  height: 100px;
+  width: 500px;
+  background-color: red;
+}
+
+div {
+  text-align: center;
+  color: white;
+  font-size: 1em;
+}
